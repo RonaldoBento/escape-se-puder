@@ -37,6 +37,8 @@
 
 <br><img src="tela.png" alt="tela do jogo no formato png"><br>
 
+<br><img src="tela0.png" alt="tela do jogo no formato png"><br>
+
 <br><img src="tela1.png" alt="tela do jogo no formato png"><br>
 
 <br><img src="tela2.png" alt="tela do jogo no formato png"><br>
