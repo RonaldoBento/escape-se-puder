@@ -1,7 +1,7 @@
 # escape-se-puder
  Game_Point_and_Click
 
-# Point-Click
+# Point And Click
  
 ## Memórias - Escape Se Puder
 
