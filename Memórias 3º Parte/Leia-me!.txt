@@ -1,0 +1,82 @@
+====================================================================
+=====================//Memórias - Escape Se Puder\\=====================
+====================================================================
+Baseado no Game: Mysterious Room Escape da Desenvolvedora Okami Amaterasu
+*Autor: Ronaldo Rodrigues Bento
+*Engine usada: [RMVX Ace]
+*Gênero: [Escape, Mistério, Point And Click, Horror Psicológico e Puzzle]
+*Versão Especial para o evento TocaJam Slasher Movies 2023 
+*Faixa Etária: Para maiores de 13 anos.
+*Engine: RPG Maker VX Ace
+*Design e Characters & Scenario: 
+ Okami Amaterasu & Ronaldo R. Bento
+*Roteiro original: Ronaldo R. Bento
+*Game Design: Ronaldo R. Bento
+*Level Design: Ronaldo R. Bento
+*Idioma: Português Brasileiro
+*Precisa de RTP? Não.
+*Número de finais: [2]
+*GDD – Game Design Document: Sim
+
+==================================//================================
+
+#COMO JOGAR:
+
+Use o [Mouse] para interagir com o ambiente e para passar as caixas 
+de mensagem. Clique na SETA que fica no canto de cima da tela para 
+olhar o outro lado da sala ou desaproximar de alguma área.
+Clique nos itens do inventário para examiná-los.
+
+[!]Você não pode examinar itens durante a execução de puzzles.
+[!]Tenha por perto caneta e papel para anotar senhas e dicas.
+[!]O sistema de mouse é sensível. Evite dar clique duplo!
+
+==================================//================================
+
+#Créditos de todos os recursos com nome de seus respectivos autores:
+ 
+--------------------------------------------------------------------
+
++Gráficos - Okami Amaterasu - Ronaldo Rodrigues Bento
+
+--------------------------------------------------------------------
+
++Scripts - Jet's Mouse System
+           Yanfly's Message System
+	   JV Master's Skip Title Screen
+	   Raizen's Lune Ultimate Anti-Lag
+MOG - Ayesha Title Screen (v1.5)
+MOG - Title Multilogo - [Stand-Alone Series] (V1.1)
+MOG - Simple Anti Lag (V2.1)
+MOG - Anti Animation Lag (v1.1)
+MOG - Clear Memory (v1.0) (Memory Leak Solution)
+MOG - Debug Mode + Ver 1.7 (For Scripters)
+modern algebra (rmrk.net) Animated Parallax [VXA]
+modern algebra (rmrk.net) Picture Bug Fix
+--------------------------------------------------------------------
+
++Sons - SEs  = http://www.bfxr.net/
+	       Clock Tower OST
+	       Caio Varalta	
+	
+	BGMs = Mystic Ark OST
+               Evening Fall - Piano
+	       Morgana Rides - kelvin MacLeod 
+               Theme and Themeloop - Caio Varalta
+
+--------------------------------------------------------------------
+
++Fonte - Minecraftia: Craftron Gaming
+
+--------------------------------------------------------------------
+
++Beta Testers
+
+Caio Varalta
+Caio Rodrigues Sabino
+Lucas Rodrigues Sabino
+Pedro Henrique Rodrigues Braga
+
+==================================//================================
+
++Desde já agradeço aos que jogaram!
