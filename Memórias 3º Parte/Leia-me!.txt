@@ -1,7 +1,7 @@
 ====================================================================
-=====================//Memórias - Escape Se Puder\\=====================
+=====================//Memórias - Escape Se Puder 3\\=====================
 ====================================================================
-Baseado no Game: Mysterious Room Escape da Desenvolvedora Okami Amaterasu
+
 *Autor: Ronaldo Rodrigues Bento
 *Engine usada: [RMVX Ace]
 *Gênero: [Escape, Mistério, Point And Click, Horror Psicológico e Puzzle]
