@@ -1,0 +1,77 @@
+ Título Original: SekaiVN - O Espectro de Bongcheon-Dong [BR V.Original]
+ Título Adaptado - O Espectro de Bongcheon-Dong 2
+=============================================================================================================================
+ Autor: Ronaldo Rodrigues Bento
+ Roteiro Original do Prólogo: Bongcheon-Dong Ghost by Horang
+ Roteiro Adaptado: O Espectro de Bongcheon-Dong 2 by Ronaldo Rodrigues Bento - Bento -Projeto-
+ Gênero: Visual Novel Terror/Suspense/Horror/Puzzles/Policial
+ Engine: RPG Maker VX Ace
+ Faixa Etária: Maiores de 18 anos
+ Precisa de RTP? Não.
+
+ Este jogo foi desenvolvido por Ronaldo Rodrigues Bento, por meio da
+ engine RPG Maker VX Ace e não possui fins comerciais.
+
+ Todos os materiais provenientes de terceiros
+ utilizados neste projeto possuem a prévia 
+ autorização de seus autores, seja de maneira 
+ tácita ou expressa para uso.
+
+================================================================================================================================
+ RGSS (Ruby Game Scripting System) uses the object-oriented scripting language Ruby to develop 2D games for the Windows® platform.
+
+
+ Characters & Scenario
+ Horang 
+ https://www.webtoons.com/en/thriller/chiller/bongcheon-dong-ghost-horang/viewer?title_no=536&episode_no=22
+
+ Music By ?????-????-
+ 86-Ashford's Music Box.ogg
+ ayashige.ogg
+ werwer.wav
+ http://www.rengoku-teien.com/
+
+
+
+ RGSS3 & Layout
+ By Moghunter 
+ http://www.atelier-rgss.com/
+
+===============================================================================================================
+
+
+                     AGRADECIMENTOS:
+
+
+ Créditos das Artes e Roteiro: Horang 
+
+RMN Music Pack is a collection of videogame music composed by members of http://www.rpgmaker.net for anyone and 
+everyone to use in their non-commercial videogame projects. RMN Music Pack was created in three-months timeframe 
+as an event organized by 800 M.P.H. and NewBlack with assistance of Kenton Anderson. 
+
+You can find the full list of submissions at http://rpgmaker.net/events/rmn_music_pack
+
+
+Special thanks to everyone partaking the event, http://www.rpgmakerweb.com/, Clyve, Liberty, Archeia and Jonnie19
+
+And all the attending artists: Jasprelao, Jeremiah "McTricky" George, Jude, Gamesfreak13563, Tarranon, Cornflake, 
+Xcalnarok, Lana42, Kunsel, Subaru, NathanGDay, Snowy Fox, ReclaimedGlory, Apoc, hyde9318 and 800 M.P.H.
+
+Album cover artwork has been made by http://yaichino.deviantart.com/ and CD artwork by http://23hauntsme.deviantart.com/
+
+RMN Music Pack is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.
+
+=================================================================================================================
+
+ - Ao Zeus81, pelo script "Fullscreen ++".
+
+ - Ao Mog Hunter - Ayesha Title Screen (v1.5) +++
+ - Ao Mog hunter - MOG - Title Multilogo - [Stand-Alone Series] (V1.1) +++
+ - Ao Mog Hunter - MOG - Anti Animation Lag (v1.1) +++
+ - Ao Mog Hunter - MOG - Debug Mode + Ver 1.7 (For Scripters) +++
+ - Ao Raizen, pelo script "Lune Ultimate Anti-Lag".
+ - E claro, a todos que jogaram!
+
+===================================================================================================================
+                
+ 
